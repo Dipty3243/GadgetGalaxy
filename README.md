@@ -1,1 +1,1 @@
-# Gadgetgalaxy
+# GadgetGalaxy
